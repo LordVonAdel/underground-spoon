@@ -1,0 +1,30 @@
+{
+  "name": "underground",
+  "version": "1.0.0",
+  "description": "A science research and development secret science lab building game",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "electron": "^1.7.5",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordVonAdel/underground-spoon.git"
+  },
+  "author": "LordVonAdel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordVonAdel/underground-spoon/issues"
+  },
+  "homepage": "https://github.com/LordVonAdel/underground-spoon#readme"
+}
